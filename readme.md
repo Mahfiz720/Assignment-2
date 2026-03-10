@@ -1,5 +1,9 @@
-github repo link : https://github.com/Mahfiz720/Assignment-2
+# Flower Shop
 
-github live demo link : https://mahfiz720.github.io/Assignment-2/
+This is a responsive web page for a flower shop, created as Assignment 2.
 
-vercel live link : https://assignment-2-rho-self.vercel.app/
+## Links
+
+* [GitHub Repository](https://github.com/Mahfiz720/Assignment-2)
+* [GitHub Live Demo](https://mahfiz720.github.io/Assignment-2/)
+* [Vercel Live Demo](https://assignment-2-rho-self.vercel.app/)
