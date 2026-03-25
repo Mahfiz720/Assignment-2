@@ -148,8 +148,8 @@
 }
 
 .card-image {
-    width: 240px;
-    height: 320px;
+    width: 100%;
+    height: auto;
 
 }
 
@@ -217,6 +217,22 @@
 .store-list li {
     color: rgba(0, 0, 0, 0.5);
     gap: 5px;
+}
+
+.shop-btn{
+    background: transparent;
+    color: #FFFFFF;
+    border: 2px #FFFFFF;
+    padding: 3px 3px;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 2px;
+    transition: 0.3s;
+}
+
+.shop-btn:hover{
+    background: #e3caca;
+    
 }
 
 /* items styles */
